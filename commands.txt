@@ -1,0 +1,1 @@
+pipenv install --python 3.10 -> Create Python 3.10 environment
